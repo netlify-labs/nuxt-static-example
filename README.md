@@ -1,4 +1,12 @@
-# nuxt-static-example
+# Nuxt Static Example
+
+> _A quick sample site so that you can see how the new target:static would be set up_
+
+### Deploy this Template
+
+Click the "Deploy to Netlify" button, and you can configure it to fit your needs.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-labs/nuxt-static-example?utm_source=github&utm_medium=nuxtstatic-sd&utm_campaign=devex)
 
 ## Build Setup
 
